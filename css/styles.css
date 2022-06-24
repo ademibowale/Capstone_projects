@@ -186,7 +186,7 @@ h1 {
   background-repeat: repeat;
   background-size: cover;
   -webkit-background-clip: text;
-  color: transparent;
+  color: var(--secondary-color);
   font-size: 30px;
   text-transform: uppercase;
   font-family: "cocogoose", "Arial", sans-serif;
