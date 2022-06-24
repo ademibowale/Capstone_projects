@@ -1,1 +1,79 @@
 # Capstone_projects
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Microverse Capstone Project
+
+ This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
+The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
+
+https://github.com/ademibowale/Capstone_projects
+https://www.loom.com/share/201a1c930c084c29a9f3cbf1198e59bb
+
+
+## Built With
+
+- HTML
+- CSS 
+- JAVASCRIPT
+
+## Live Demo
+
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Clone this repository
+Getting Started:
+
+To get a local copy up and running follow this simple example step.
+Prerequisites:
+
+## Setup:
+
+To get this project in your local machine, follow this steps.
+
+Open terminal.
+Clone the repository https://github.com/ademibowale/Capstone_projects.git.
+
+Cd in the project portfolio
+Run the project in your browser.
+Install:
+
+Run npm install.
+Test:
+
+run the project in the browser.
+Use google tools to inspect the web into mobile size.
+
+## Author
+
+👤 **ADEBOWALE ADEGBOYE**
+
+GitHub: https://github.com/ademibowale
+Twitter: https://twitter.com/Ademibowale1
+LinkedIn: https://www.linkedin.com/in/adebowale-adegboye-143568221/
+
+## 🤝 Contributing
+
+🤝 Contributions, issues, and feature requests are welcome!
+
+
+## SHOW YOUR SUPPORT:
+
+ Give a ⭐ if you like this project!
+
+## ACKNOWLEDGEMENT:  
+
+ Hat tip to anyone whose code was used Inspiration. etc
+
+📝 License
+
+This project is MIT licensed.
+```
+https://github.com/ademibowale/Capstone_projects
+
+```
+
+Give a ⭐️ if you like this project!
