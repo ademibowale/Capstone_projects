@@ -7,7 +7,6 @@
 The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
 https://github.com/ademibowale/Capstone_projects
-https://www.loom.com/share/201a1c930c084c29a9f3cbf1198e59bb
 
 
 ## Built With
@@ -15,10 +14,6 @@ https://www.loom.com/share/201a1c930c084c29a9f3cbf1198e59bb
 - HTML
 - CSS 
 - JAVASCRIPT
-
-## Live Demo
-
-
 
 ## Getting Started
 
@@ -51,9 +46,9 @@ Use google tools to inspect the web into mobile size.
 
 👤 **ADEBOWALE ADEGBOYE**
 
-GitHub: https://github.com/ademibowale
-Twitter: https://twitter.com/Ademibowale1
-LinkedIn: https://www.linkedin.com/in/adebowale-adegboye-143568221/
+GitHub:[@githubhandle](https://github.com/ademibowale)
+Twitter:[@twitterhandle]( https://twitter.com/Ademibowale1)
+LinkedIn:[@linkedin](https://www.linkedin.com/in/adebowale-adegboye/)
 
 ## 🤝 Contributing
 
