@@ -27,25 +27,25 @@ const guest = [
     about: 'Musician. She is the most-nominated and -awarded woman in Grammys history. Of her 79 nominations, Beyoncé has won 28 awards. Some of her notable wins include song of the year for her chart-topping hit "Single Ladies," best music video for "Formation," and best R&B performance for "Drunk in Love." She has been credited with revolutionizing the music industry after she released her self-titled studio album, "Beyoncé," on digital platforms without any prior warning.',
     image: './images/Beyonsee_im.png',
     display: 'hs hide-speaker',
-  }, 
-  
+  },
+
   {
     name: 'HYCROWN',
     about: 'CEO HYMUSIC',
     image: './images/hycrown_im.jpg',
     display: 'hs hide-speaker',
-      }, 
-      
-      {
+  },
+
+  {
     name: 'R-KELLY',
     about: 'One of the most popular artists during a period lasting from the early 90s into the mid-2010s, contemporary R&B singer, songwriter, and producer R. Kelly picked up where new jack swing left off by developing his own mix of soul, funk, hip-hop, and gospel. Fourteen of Kellys studio albums reached in the Top Ten of the Billboard 200, " the Grammy-winning "I Believe I Can Fly," and the remixes of "Step in the Name of Love" and "Ignition." He was also behind Top Ten hits by the likes of Aaliyah and Michael Jackson. ',
     image: './images/Rkelly.jpg',
     display: 'hs hide-speaker',
-  }, 
-  
+  },
+
   {
     name: 'LADY-GAGA',
-    about: 'MUSICIAN One of the america female singer she has been doing great in america music industry' ,
+    about: 'MUSICIAN One of the america female singer she has been doing great in america music industry',
     image: './images/Lady_Gaga.jpeg',
     display: 'hs hide-speaker',
   },
@@ -78,24 +78,21 @@ btn.addEventListener('click', () => {
   });
 });
 
-
-
 let slideIndex = 0;
-showSlides();
-
 function showSlides() {
   let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  const slides = document.getElementsByClassName('mySlides');
+  const dots = document.getElementsByClassName('dot');
+  for (i = 0; i < slides.length; i += 1) {
+    slides[i].style.display = 'none';
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
+  slideIndex += 1;
+  if (slideIndex > slides.length) { slideIndex = 1; }
+  for (i = 0; i < dots.length; i += 1) {
+    dots[i].className = dots[i].className.replace(' active', '');
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+  slides[slideIndex - 1].style.display = 'block';
+  dots[slideIndex - 1].className += ' active';
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
+showSlides();
