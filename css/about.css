@@ -57,13 +57,12 @@
   margin: 15px 0 0 0;
 }
 
-.video{
-color:red;
+.video {
+  color: red;
   background-color: purple;
-    background-text: white;}
-  
 
-
+  /* background-text: white; */
+}
 
 .h-1 {
   background-image: url(../images/Show.jpg);

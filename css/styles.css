@@ -196,140 +196,127 @@ h1 {
 }
 
 .main-sectionA {
-          background: url(/images/mobile_intro_bg.png);
-          background-image: url(/images/mobile_intro_bg.png);
-          background-size: initial;
-          background-color: initial;
-          height: 100vh;
-          width: 100%;
-        }
+  background: url(/images/mobile_intro_bg.png);
+  background-image: url(/images/mobile_intro_bg.png);
+  background-size: initial;
+  background-color: initial;
+  height: 100vh;
+  width: 100%;
+}
 
-        * {box-sizing: border-box;}
-        body {font-family: Verdana, sans-serif;}
-        .mySlides {display: none;}
-        img {vertical-align: middle;}
-        
-        /* Slideshow container */
-        .slideshow-container {
-          max-width: 1000px;
-          position: relative;
-          margin: auto;
-        }
-        
-        /* Caption text */
-        .text {
-          color: #a11d1d;
-          font-size: 15px;
-          padding: 8px 12px;
-          position: absolute;
-          bottom: 8px;
-          width: 100%;
-          text-align: center;
-        }
-        
-        /* Number text (1/3 etc) */
-        .numbertext {
-          color: #f2f2f2;
-          font-size: 12px;
-          padding: 8px 12px;
-          position: absolute;
-          top: 0;
-        }
-        
-        /* The dots/bullets/indicators */
-        .dot {
-          height: 15px;
-          width: 15px;
-          margin: 0 2px;
-          background-color: #bbb;
-          border-radius: 50%;
-          display: inline-block;
-          transition: background-color 0.6s ease;
-        }
-        
-        .active {
-          background-color: #717171;
-        }
-        
-        .slide-ma{
-width:100%;
+.mySlides { display: none; }
+img { vertical-align: middle; }
 
-        }
-        /* Fading animation */
-        .fade {
-          animation-name: fade;
-          animation-duration: 1.5s;
-        }
-        
-        @keyframes fade {
-          from {opacity: .4} 
-          to {opacity: 1}
-        }
-        
-        /* On smaller screens, decrease text size */
-        @media only screen and (max-width: 300px) {
-          .text {font-size: 11px}
-        }
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
 
+/* Caption text */
+.text {
+  color: #a11d1d;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
 
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
 
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
 
+.active {
+  background-color: #717171;
+}
 
+.slide-ma {
+  width: 100%;
+}
 
-        h2.head {
-          background-image: url(/images/oreclor.jpg);
-          font-family: 'Lato', sans-serif;
-          font-size: 1.1rem;
-          text-transform: uppercase;
-          background-repeat: no-repeat;
-          -webkit-text-fill-color: rgb(0 0 0 / 0%);
-          -webkit-background-clip: text;
-          background-position: 20% 20%;
-          background-size: cover;
-          color: transparent;
-          /* max-width: 900px; */
-          align-self: center;
-          text-align: center;
-          font-weight: 900;
-          font-style: italic;
-        }
-      
-        h1.para {
-          background-image: url(images/orange1_min.jpg);
-          font-family: 'Lato', sans-serif;
-          font-size: 25px;
-          background-repeat: no-repeat;
-          background-position: 20% 20%;
-          background-size: cover;
-          -webkit-text-fill-color: rgb(0 0 0 / 0%);
-          -webkit-background-clip: text;
-          color: transparent;
-          margin: -3px 0;
-          max-width: 900px;
-          align-self: center;
-          font-style: italic;
-          font-weight: 500;
-          margin-top: -1px;
-          text-align: center;
-        }
-      
-        .para-text {
-          vertical-align: text-bottom;
-          margin: 28px 33px;
-          /* padding: 20px 30px; */
-          border-style: inset;
-          text-align: justify;
-          height: fit-content;
-          width: 80%;
-          justify-content: baseline;
-          align-content: center;
-          font-size: 13px;
-          align-items: center;
-        }
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
 
+@keyframes fade {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
 
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text { font-size: 11px; }
+}
 
+h2.head {
+  background-image: url(/images/oreclor.jpg);
+  font-family: 'Lato', sans-serif;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgb(0 0 0 / 0%);
+  -webkit-background-clip: text;
+  background-position: 20% 20%;
+  background-size: cover;
+  color: transparent;
+  align-self: center;
+  text-align: center;
+  font-weight: 900;
+  font-style: italic;
+}
 
+h1.para {
+  background-image: url(images/orange1_min.jpg);
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  background-repeat: no-repeat;
+  background-position: 20% 20%;
+  background-size: cover;
+  -webkit-text-fill-color: rgb(0 0 0 / 0%);
+  -webkit-background-clip: text;
+  color: transparent;
+  margin: -3px 0;
+  max-width: 900px;
+  align-self: center;
+  font-style: italic;
+  font-weight: 500;
+  margin-top: -1px;
+  text-align: center;
+}
+
+.para-text {
+  vertical-align: text-bottom;
+  margin: 28px 33px;
+  border-style: inset;
+  text-align: justify;
+  height: fit-content;
+  width: 80%;
+  justify-content: baseline;
+  align-content: center;
+  font-size: 13px;
+  align-items: center;
+}
 
 #showcase > p {
   color: var(--secondary-color);
@@ -435,10 +422,6 @@ hr {
   color: var(--secondary-color);
   font-weight: 700 !important;
 }
-
-/* #cart  h3 {
-  font-size: 19px;
-} */
 
 .logo {
   display: none;
