@@ -20,7 +20,7 @@ const guest = [
   }, {
     name: '<a href="/">KENNIS OGUNGBE</a>',
     about: 'Chairman and CEO Of Kennis Music.',
-    image: './images/Kenis_music.jpg',
+    image: './images/Kenis.jpg',
     display: 'hs hide-speaker',
   }, {
     name: '<a href="">BEYONCE</a>',
