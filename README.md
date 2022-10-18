@@ -45,7 +45,7 @@ Use google tools to inspect the web into mobile size.
 
 GitHub:[@githubhandle](https://github.com/ademibowale)
 Twitter:[@twitterhandle]( https://twitter.com/Ademibowale1)
-LinkedIn:[@linkedin](https://www.linkedin.com/in/adebowale-adegboye/)
+LinkedIn:[@linkedin](https://www.linkedin.com/in/tech-adebowale-adegboye/)
 
 ## LIVE DEMO:
 https://ademibowale.github.io/Capstone_projects/
