@@ -39,13 +39,14 @@ Test:
 run the project in the browser.
 Use google tools to inspect the web into mobile size.
 
+
 ## Author
+👤 **Adebowale Adegboye**
 
-👤 **ADEBOWALE ADEGBOYE**
+- GitHub: [@githubhandle](https://github.com/ademibowale)
+- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
 
-GitHub:[@githubhandle](https://github.com/ademibowale)
-Twitter:[@twitterhandle]( https://twitter.com/Ademibowale1)
-LinkedIn:[@linkedin](https://www.linkedin.com/in/tech-adebowale-adegboye/)
 
 ## LIVE DEMO:
 https://ademibowale.github.io/Capstone_projects/
