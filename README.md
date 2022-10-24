@@ -39,8 +39,8 @@ Test:
 run the project in the browser.
 Use google tools to inspect the web into mobile size.
 
-
 ## Author
+
 👤 **Adebowale Adegboye**
 
 - GitHub: [@githubhandle](https://github.com/ademibowale)
