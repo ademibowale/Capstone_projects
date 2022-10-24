@@ -13,17 +13,17 @@ closeMenu.addEventListener('click', () => {
 
 const guest = [
   {
-    name: '<a href="/">JASON ILEY</a>',
+    name: 'JASON ILEY',
     about: 'Chairman and CEO Of Sony Record   Jason Iley MBE was appointed Chairman and CEO of Sony Music UK and Ireland in 2014. Since then he has transformed Sony Music’s roster by appointing several of the industry’s leading executives to run Sony labels and divisions, He has worked with many of the most famous artists in music, including U2, Sir Paul McCartney, David Bowie, Elton John, Beyoncé, Kanye West, Alicia Keys, Calvin Harris, Rihanna, Mark Ronson and Amy Winehouse.',
     image: './images/Sony_record.jpeg',
     display: 'block',
   }, {
-    name: '<a href="/">KENNIS OGUNGBE</a>',
+    name: 'KENNIS OGUNGBE',
     about: 'Chairman and CEO Of Kennis Music.',
     image: './images/Kenis.jpg',
     display: 'hs hide-speaker',
   }, {
-    name: '<a href="">BEYONCE</a>',
+    name: 'BEYONCE',
     about: 'Musician. She is the most-nominated and -awarded woman in Grammys history. Of her 79 nominations, Beyoncé has won 28 awards. Some of her notable wins include song of the year for her chart-topping hit "Single Ladies," best music video for "Formation," and best R&B performance for "Drunk in Love." She has been credited with revolutionizing the music industry after she released her self-titled studio album, "Beyoncé," on digital platforms without any prior warning.',
     image: './images/Beyonsee_im.png',
     display: 'hs hide-speaker',
