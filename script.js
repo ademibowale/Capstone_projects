@@ -55,7 +55,7 @@ function createSpeakers(prop) {
   const subject = document.querySelector('#col-d');
   subject.insertAdjacentHTML('beforeend',
     `<div id="speaker" class="${prop.display}">
-    <div><img src="${prop.image}" alt=""></div>
+    <div><img src="${prop.image}" alt="Speaker image"></div>
     <div>
     <h3>${prop.name}</h3>
     <hr>

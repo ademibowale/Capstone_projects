@@ -3,7 +3,7 @@
 
 # Microverse Capstone Project Description
 
-- This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
+ This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
 The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
 ## Screenshot Image
@@ -38,17 +38,15 @@ Prerequisites
 
 - [ ] Once the files are on your machine, open the Capstone_project folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
 
-#To get this project in your local machine, follow this steps.
-
-- [ ] Open terminal.
-- [ ] Clone the repository (https://github.com/ademibowale/Capstone_projects.git)
-
-- [ ] Cd in the project portfolio
-- [ ] Run the project in your browser.
+Cd in the project portfolio
+Run the project in your browser.
 Install:
-- [ ] Run npm install.
-- [ ] Run the project in the browser.
-- [ ] Use google tools to inspect the web into mobile size.
+
+Run npm install.
+Test:
+
+run the project in the browser.
+Use google tools to inspect the web into mobile size.
 
 ## Author
 
@@ -63,12 +61,7 @@ Install:
 
 
 ## LIVE DEMO:
-
-- Access the  online version of my application with this link
-
-[Live Demo](https://ademibowale.github.io/Capstone_projects/)
-
-
+https://ademibowale.github.io/Capstone_projects/
 
 ## 🤝 Contributing
 
