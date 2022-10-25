@@ -6,6 +6,13 @@
  This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
 The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
+## Screenshot Image
+
+- I built this website from scratch and it was designed in accordance to First Microverse Capstone Project Requirements.
+
+![Web capture_25-10-2022_81310_ademibowale github io](https://user-images.githubusercontent.com/92458236/197712544-83d62a97-eb0a-440c-a81c-0d88cc3b711b.jpeg)
+
+
 ## Built With
 
 - [ ] HTML
@@ -16,8 +23,12 @@ The template I used to create this template was originally designed by [Cindy Sh
 
 ## Getting Started
 
+Prerequisites
+
+- [ ] Text editor
+- [ ] GitHub
+
 - To get a local copy up and running follow this simple example step.
-Prerequisites:
 
 ## Setup:
 
@@ -45,6 +56,9 @@ Use google tools to inspect the web into mobile size.
 - Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
 
+## Video Presentation
+[click here to view video presentation](https://www.loom.com/share/9e021de8f6484d2991e72f5c54adebfc)
+
 
 ## LIVE DEMO:
 https://ademibowale.github.io/Capstone_projects/
@@ -60,9 +74,11 @@ https://ademibowale.github.io/Capstone_projects/
 
 ## ACKNOWLEDGEMENT:  
 
+[Cindy Shin in Behance.](https://www.behance.net/adagio07) whose design template was used is used for this project.
+
  Hat tip to anyone whose code was used Inspiration. etc
 
-📝 License
+📝License
 
 This project is MIT licensed.
 ```
