@@ -16,8 +16,13 @@ The template I used to create this template was originally designed by [Cindy Sh
 
 ## Getting Started
 
+Prerequisites
+
+- [ ] Text editor
+- [ ] GitHub
+
 - To get a local copy up and running follow this simple example step.
-Prerequisites:
+
 
 ## Setup:
 
@@ -47,6 +52,9 @@ Install:
 - Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
 
+## Video Presentation
+[click here to view video presentation](https://www.loom.com/share/9e021de8f6484d2991e72f5c54adebfc)
+
 
 ## LIVE DEMO:
 
@@ -67,9 +75,11 @@ Install:
 
 ## ACKNOWLEDGEMENT:  
 
+[Cindy Shin in Behance.](https://www.behance.net/adagio07) whose design template was used is used for this project.
+
  Hat tip to anyone whose code was used Inspiration. etc
 
-📝 License
+📝License
 
 This project is MIT licensed.
 ```
