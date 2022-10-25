@@ -30,7 +30,6 @@ Prerequisites
 
 - To get a local copy up and running follow this simple example step.
 
-
 ## Setup:
 
 - If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
