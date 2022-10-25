@@ -6,18 +6,11 @@
 - This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
 The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
-## Image Preview
+## Screenshot Image
 
 - I built this website from scratch and it was designed in accordance to First Microverse Capstone Project Requirements.
 
-![Screenshot (130)](https://user-images.githubusercontent.com/92458236/197704614-c4d534e2-3d59-4183-a6f9-ed4b9ee060ee.png)
-
-![Screenshot (132)](https://user-images.githubusercontent.com/92458236/197705027-1105fa90-587b-471a-ad4e-f86cd38458b3.png)
-
-![Screenshot (131)](https://user-images.githubusercontent.com/92458236/197704929-7e663f0d-c3a5-4583-bb8e-364f4a5a7b0d.png)
-
-
-
+![Web capture_25-10-2022_81310_ademibowale github io](https://user-images.githubusercontent.com/92458236/197712544-83d62a97-eb0a-440c-a81c-0d88cc3b711b.jpeg)
 
 
 ## Built With
