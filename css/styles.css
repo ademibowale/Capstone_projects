@@ -8,8 +8,7 @@
 }
 
 :root {
-  --primary-color: #272a31;
-  --secondary-color: #ec5242;
+  --primary-color: #3f0c0c;
   --ash-color: #d3d3d3;
 }
 
@@ -71,7 +70,7 @@ body {
 }
 
 #main-section > div > div {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #f3f3f3;
   position: relative;
   top: 0;
   left: 0;
