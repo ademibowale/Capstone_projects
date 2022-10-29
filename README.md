@@ -52,9 +52,11 @@ Use google tools to inspect the web into mobile size.
 
 👤 **Adebowale Adegboye**
 
-- GitHub: [@githubhandle](https://github.com/ademibowale)
-- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
+
+- GitHub:[@ademibowale](https://github.com/ademibowale)
+- Twitter:[@Ademibowale1]( https://twitter.com/Ademibowale1)
+- LinkedIn:[@adebowale](https://www.linkedin.com/in/tech-adebowale-adegboye/)
+
 
 ## Video Presentation
 [click here to view video presentation](https://www.loom.com/share/9e021de8f6484d2991e72f5c54adebfc)
