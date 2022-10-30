@@ -38,12 +38,7 @@ Prerequisites
 
 - [ ] Once the files are on your machine, open the Capstone_project folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
 
-Cd in the project portfolio
-Run the project in your browser.
-Install:
-
-Run npm install.
-Test:
+- [ ] Open with live server to view web layout
 
 run the project in the browser.
 Use google tools to inspect the web into mobile size.
