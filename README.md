@@ -83,6 +83,6 @@ https://github.com/ademibowale/Capstone_projects
 
 ```
 
-Give a ⭐️ if you like this project!![Designer](https://user-images.githubusercontent.com/92458236/180411981-c5091b79-d925-4db9-8334-5ce6c552d3b7.gif)
-![Developer](https://user-images.githubusercontent.com/92458236/180412125-340ca564-a3fa-4f82-aa60-bc1e44529a91.gif)
+Give a ⭐️ if you like this project!!
+
 
