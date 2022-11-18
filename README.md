@@ -6,6 +6,8 @@
  This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
 The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
+# This project is a part of my Microverse curriculum. This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities. The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
+
 ## Screenshot Image
 
 - I built this website from scratch and it was designed in accordance to First Microverse Capstone Project Requirements.
@@ -73,16 +75,21 @@ https://ademibowale.github.io/Capstone_projects/
 
 [Cindy Shin in Behance.](https://www.behance.net/adagio07) whose design template was used is used for this project.
 
- Hat tip to anyone whose code was used Inspiration. etc
+- This project is part of Capstone week of module 1 in the Microverse study program.
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to Code Reviewers for the insightful feedback.
+- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
+
+
 
 📝License
 
 This project is MIT licensed.
 ```
-https://github.com/ademibowale/Capstone_projects
+Original design idea by Cindy Shin in Behance, in association with the Creative Commons license of the design.
 
 ```
 
-Give a ⭐️ if you like this project!!
+
 
 
