@@ -1,99 +1,83 @@
-const menu = document.querySelector('.menu');
-const navList = document.querySelector('.nav-list');
-const closeMenu = document.querySelector('#close');
-menu.addEventListener('click', () => {
-  navList.classList.toggle('hide');
-  document.body.classList.toggle('no-scroll');
-});
+/* Constants declarations for the Mobile menu */
+const hamburger = document.querySelector('.hamburger');
+const navMenu = document.querySelector('.nav-menu');
 
-closeMenu.addEventListener('click', () => {
-  navList.classList.toggle('hide');
-  document.body.classList.toggle('no-scroll');
-});
+function mobileMenu() {
+  /* Open the menu and and change the Hamburger to a X on click */
+  if (navMenu.classList.contains('hide')) {
+    navMenu.classList.remove('hide');
+    hamburger.classList.toggle('active');
+  } else {
+    navMenu.classList.add('hide');
+    hamburger.classList.toggle('active');
+  }
+}
+hamburger.addEventListener('click', mobileMenu);
+/* For closing navigation on the click of each link */
+document.querySelectorAll('.nav_link').forEach((n) => n.addEventListener('click', () => {
+  hamburger.classList.remove('active');
+  navMenu.classList.add('hide');
+  hamburger.toggle('bar active');
+}));
 
-const guest = [
+// featured speakers dynamic javascript
+
+const featSpeaker = [
   {
-    name: 'JASON ILEY',
-    about: 'Chairman and CEO Of Sony Record   Jason Iley MBE was appointed Chairman and CEO of Sony Music UK and Ireland in 2014. Since then he has transformed Sony Music’s roster by appointing several of the industry’s leading executives to run Sony labels and divisions, He has worked with many of the most famous artists in music, including U2, Sir Paul McCartney, David Bowie, Elton John, Beyoncé, Kanye West, Alicia Keys, Calvin Harris, Rihanna, Mark Ronson and Amy Winehouse.',
-    image: './images/Sony_record.jpeg',
-    display: 'block',
-  }, {
-    name: 'KENNIS OGUNGBE',
-    about: 'Chairman and CEO Of Kennis Music.',
-    image: './images/Kenis.jpg',
-    display: 'hs hide-speaker',
-  }, {
-    name: 'BEYONCE',
-    about: 'Musician. She is the most-nominated and -awarded woman in Grammys history. Of her 79 nominations, Beyoncé has won 28 awards. Some of her notable wins include song of the year for her chart-topping hit "Single Ladies," best music video for "Formation," and best R&B performance for "Drunk in Love." She has been credited with revolutionizing the music industry after she released her self-titled studio album, "Beyoncé," on digital platforms without any prior warning.',
-    image: './images/Beyonsee_im.png',
-    display: 'hs hide-speaker',
+    name: 'Yochai Benkler',
+    Image: 'images/image-1.png',
+    title: 'Berkman Professor of Enterpreneurial Legal Studies',
+    desc: 'Benkler studies commons-based peer production, and published his seminal book The Wealth of Network in 2016',
   },
-
   {
-    name: 'HYCROWN',
-    about: 'CEO HYMUSIC',
-    image: './images/hycrown_im.jpg',
-    display: 'hs hide-speaker',
+    name: 'SohYeong Noh',
+    Image: 'images/image-3.png',
+    title: 'Director of Art Centre Nabi and a board member of CC Korea',
+    desc: 'As the main venue for new media art production in Korea, Nabi promotes cross-disciplinary collaboration',
   },
-
   {
-    name: 'R-KELLY',
-    about: 'One of the most popular artists during a period lasting from the early 90s into the mid-2010s, contemporary R&B singer, songwriter, and producer R. Kelly picked up where new jack swing left off by developing his own mix of soul, funk, hip-hop, and gospel. Fourteen of Kellys studio albums reached in the Top Ten of the Billboard 200, " the Grammy-winning "I Believe I Can Fly," and the remixes of "Step in the Name of Love" and "Ignition." He was also behind Top Ten hits by the likes of Aaliyah and Michael Jackson. ',
-    image: './images/Rkelly.jpg',
-    display: 'hs hide-speaker',
+    name: 'Lila Tretikov',
+    Image: 'images/image-5.png',
+    title: 'Executive Director of the Wikimedia Foundation',
+    desc: 'Lila Tretikov is the Executive Director of the Wikimedia Foundation, the organization that operates Wikipedia.',
   },
-
   {
-    name: 'LADY-GAGA',
-    about: 'MUSICIAN One of the america female singer she has been doing great in america music industry',
-    image: './images/Lady_Gaga.jpeg',
-    display: 'hs hide-speaker',
+    name: 'Kilman Chon',
+    Image: 'images/image-2.png',
+    title: '',
+    desc: 'Kilman Chon helped bring the Internet to Asia and he is an outspoken advocate for the open web and digital commons in 2012, he was inducted into the inaugural class of the Internet',
+  },
+  {
+    name: 'Julia Leda',
+    Image: 'images/image-4.png',
+    title: 'President of Young Pirates of Europe',
+    desc: 'European ingetration, political democracy and participation of youth through online as her major condern, Reda report outlining potentials',
+  },
+  {
+    name: 'Ryan Dyrud',
+    Image: 'images/image-6.png',
+    title: 'Berkman Professor of Enterpreneurial Legal Studies',
+    desc: 'Benkler studies commons-based peer production, and published his seminal book The Wealth of Network in 2016',
   },
 ];
 
-function createSpeakers(prop) {
-  const subject = document.querySelector('#col-d');
-  subject.insertAdjacentHTML('beforeend',
-    `<div id="speaker" class="${prop.display}">
-     <div><img src="${prop.image}" alt="speakers"></div>
-
-    <div>
-    <h3>${prop.name}</h3>
-    <hr>
-    <p>${prop.about}</p>
-    </div>
-    </div>`);
+const speakers = document.querySelector('#speakers');
+for (let i = 0; i < featSpeaker.length; i += 1) {
+  speakers.innerHTML += `
+          <div class="about-dir" id="demo">
+            <div class="about-box">
+              <div class="speaker">
+                  <div class="image">
+                    <img src="${featSpeaker[i].Image}" alt="speaker-image">
+                  </div>
+                  <div class="speak">
+                  <h2>${featSpeaker[i].name}</h2>
+                  <p><em>${featSpeaker[i].title}</em></p>
+                  <div class="line2"></div>
+                  <p>${featSpeaker[i].desc}</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+  `;
 }
-
-for (let i = 0; i < guest.length; i += 1) {
-  createSpeakers(guest[i]);
-}
-
-const btn = document.querySelector('.btn-more');
-btn.addEventListener('click', () => {
-  btn.classList.toggle('show');
-  /* eslint no-unused-expressions: [2, { allowShortCircuit: true, allowTernary: true }] */
-  btn.classList.contains('show') ? btn.innerHTML = 'Hide <i class="bi bi-chevron-up"></i>' : btn.innerHTML = 'MORE <i class="bi bi-chevron-down"></i>';
-  document.querySelectorAll('.hs').forEach((elem) => {
-    elem.classList.toggle('hide-speaker');
-  });
-});
-
-let slideIndex = 0;
-function showSlides() {
-  let i;
-  const slides = document.getElementsByClassName('mySlides');
-  const dots = document.getElementsByClassName('dot');
-  for (i = 0; i < slides.length; i += 1) {
-    slides[i].style.display = 'none';
-  }
-  slideIndex += 1;
-  if (slideIndex > slides.length) { slideIndex = 1; }
-  for (i = 0; i < dots.length; i += 1) {
-    dots[i].className = dots[i].className.replace(' active', '');
-  }
-  slides[slideIndex - 1].style.display = 'block';
-  dots[slideIndex - 1].className += ' active';
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
-}
-showSlides();
