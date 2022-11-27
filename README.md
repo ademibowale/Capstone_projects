@@ -14,11 +14,11 @@ This project is a part of my Microverse curriculum. This is made as Final Projec
 ![lead1](https://user-images.githubusercontent.com/78634841/188432853-d6568147-e5b1-4628-ab10-78348c7b78fe.png)
 
 
-## Live
-[Go live with me using this link](https://lead-way-project.netlify.app/)
+## Live Preswntation
+[Go live with me using this link]()
 
 
-[Live Server]()
+[Live Server](https://lead-way-project.netlify.app/)
 
 ## Built With
 
