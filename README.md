@@ -15,7 +15,7 @@ This project is a part of my Microverse curriculum. This is made as Final Projec
 
 
 ## Live
-[Go live with me using this link]()
+[Go live with me using this link](https://lead-way-project.netlify.app/)
 
 
 [Live Server]()
