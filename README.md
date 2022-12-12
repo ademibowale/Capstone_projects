@@ -1,105 +1,93 @@
-[![](https://img.shields.io/badge/Microverse-Ademibowale%20Adegboye-blueviolet)](https://github.com/ademibowale)
+# Capstone_projects
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Microverse Capstone Project Description
 
-# LEADWAY COMMONS GLOBAL SUMMIT (Capstone-Project )
+ This project is the Final capstone project of my first module at microverse. It is aim at building responsive UI of an online website for  Music Entertainment Industry , so in this project I built the home and the about page of the conference page (and readable) on all screens.
+The template I used to create this template was originally designed by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
-> This project is about leadway common summit which bring agricultural expertise around the wotld together for a conference. It was founded in 2017 , the program was held in Nigeria in the year 2022.
+## Screenshot Image
 
+- I built this website from scratch and it was designed in accordance to First Microverse Capstone Project Requirements.
 
-This project is a part of my Microverse curriculum. This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities. The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
+![Web capture_25-10-2022_81310_ademibowale github io](https://user-images.githubusercontent.com/92458236/197712544-83d62a97-eb0a-440c-a81c-0d88cc3b711b.jpeg)
 
-### LEADWAY COMMONS SUMMIT SCREENSHOT
-
->![lead](https://user-images.githubusercontent.com/78634841/188432836-a477a847-6515-4a33-8ac5-9ae930ad0547.png)
-![lead1](https://user-images.githubusercontent.com/78634841/188432853-d6568147-e5b1-4628-ab10-78348c7b78fe.png)
-
-
-## Live Preswntation
-[Go live with me using this link](https://www.loom.com/share/8f2503aa7774476683f21a4a160f2ab3)
-
-
-[Live Server](https://lead-way-project.netlify.app/)
 
 ## Built With
 
-- Html/CSS
-- JavaScript
+- [ ] HTML
+- [ ] CSS 
+- [ ]  JAVASCRIPT
 
-## Additional Tools
-
-- WebHint
-- Stylelint
-- ESlint
+### Clone this repository
 
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-```
-node js
-npm
-```
+Prerequisites
 
-### Setup
-Clone this repository or download the Zip folder:
-```
-$ git clone https://github.com/ademibowale/Capstone_projects.git
-$ cd Capstone-project
-```
+- [ ] Text editor
+- [ ] GitHub
 
-### Install
-Install all project dependencies by running the command below
-```
-$ npm install
-```
+- To get a local copy up and running follow this simple example step.
 
-## Test
-To track linter errors locally follow these steps:  
-Track HTML linter errors run:
-```
-npx hint .
-```
-Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
-Track JavaScript linter errors run:
-```
-npx eslint .
-```
+## Setup:
+
+- If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+[Download the ZIP from this location](https://github.com/ademibowale/Capstone_projects/archive/refs/heads/main.zip), or run the following [git](https://github.com/ademibowale/Capstone_projects.git) command to clone the files to your machine:
+
+- [ ] Once the files are on your machine, open the Capstone_project folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
+
+Cd in the project portfolio
+Run the project in your browser.
+Install:
+
+Run npm install.
+Test:
+
+run the project in the browser.
+Use google tools to inspect the web into mobile size.
 
 ## Author
 
 👤 **Adebowale Adegboye**
 
+
 - GitHub:[@ademibowale](https://github.com/ademibowale)
 - Twitter:[@Ademibowale1]( https://twitter.com/Ademibowale1)
 - LinkedIn:[@adebowale](https://www.linkedin.com/in/tech-adebowale-adegboye/)
 
+
+## Video Presentation
+[click here to view video presentation](https://www.loom.com/share/9e021de8f6484d2991e72f5c54adebfc)
+
+
+## LIVE DEMO:
+https://ademibowale.github.io/Capstone_projects/
+
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- I would like to give Credit to [Cindy Shin](https://www.behance.net/adagio07) the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
-- This project is part of Capstone week of module 1 in the Microverse study program.
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to Code Reviewers for the insightful feedback.
-- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
-#### Original design idea by **Cindy Shin in Behance**, in association with the Creative Commons [license](./MIT.md) of the design.
-<br />
+🤝 Contributions, issues, and feature requests are welcome!
 
 
+## SHOW YOUR SUPPORT:
 
+ Give a ⭐ if you like this project!
+
+## ACKNOWLEDGEMENT:  
+
+[Cindy Shin in Behance.](https://www.behance.net/adagio07) whose design template was used is used for this project.
+
+ Hat tip to anyone whose code was used Inspiration. etc
+
+📝License
+
+This project is MIT licensed.
+```
+https://github.com/ademibowale/Capstone_projects
+
+```
+
+Give a ⭐️ if you like this project!![Designer](https://user-images.githubusercontent.com/92458236/180411981-c5091b79-d925-4db9-8334-5ce6c552d3b7.gif)
+![Developer](https://user-images.githubusercontent.com/92458236/180412125-340ca564-a3fa-4f82-aa60-bc1e44529a91.gif)
 
