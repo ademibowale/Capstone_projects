@@ -30,6 +30,10 @@
   font-size: 18px;
 }
 
+.last {
+  border: 2px solid red;
+}
+
 .section-1 > .box {
   margin-top: 30px;
 }

@@ -14,38 +14,40 @@ closeMenu.addEventListener('click', () => {
 const guest = [
   {
     name: 'JASON ILEY',
-    about: 'Chairman and CEO Of Sony Record   Jason Iley MBE was appointed Chairman and CEO of Sony Music UK and Ireland in 2014. Since then he has transformed Sony Music’s roster by appointing several of the industry’s leading executives to run Sony labels and divisions, He has worked with many of the most famous artists in music, including U2, Sir Paul McCartney, David Bowie, Elton John, Beyoncé, Kanye West, Alicia Keys, Calvin Harris, Rihanna, Mark Ronson and Amy Winehouse.',
+    about: 'Chairman and CEO Of Sony Record   Jason Iley MBE was appointed Chairman and CEO of Sony Music UK and Ireland in 2014. Since then he has transformed Sony Music\'\s roster.',
     image: './images/Sony_record.jpeg',
     display: 'block',
-  }, {
+  }, 
+  {
     name: 'KENNIS OGUNGBE',
-    about: 'Chairman and CEO Of Kennis Music.',
+    about: 'Chairman and CEO Of Kennis Music. A great man in the African Afrobeat Music industry, He has produced a lot of artist both home and abroad',
     image: './images/Kenis.jpg',
     display: 'hs hide-speaker',
-  }, {
+  }, 
+  {
     name: 'BEYONCE',
-    about: 'Musician. She is the most-nominated and -awarded woman in Grammys history. Of her 79 nominations, Beyoncé has won 28 awards. Some of her notable wins include song of the year for her chart-topping hit "Single Ladies," best music video for "Formation," and best R&B performance for "Drunk in Love." She has been credited with revolutionizing the music industry after she released her self-titled studio album, "Beyoncé," on digital platforms without any prior warning.',
+    about: 'Musician. She is the most-nominated and -awarded woman in Grammys history. Of her 79 nominations, Beyoncé has won 28 awards.',
     image: './images/Beyonsee_im.png',
     display: 'hs hide-speaker',
   },
 
   {
     name: 'HYCROWN',
-    about: 'CEO HYMUSIC',
+    about: 'CEO HYMUSIC, with a great features, he has feature alot of artist in his music both home and abroad and has won alot of award in his name to his brand',
     image: './images/hycrown_im.jpg',
     display: 'hs hide-speaker',
   },
 
   {
     name: 'R-KELLY',
-    about: 'One of the most popular artists during a period lasting from the early 90s into the mid-2010s, contemporary R&B singer, songwriter, and producer R. Kelly picked up where new jack swing left off by developing his own mix of soul, funk, hip-hop, and gospel. Fourteen of Kellys studio albums reached in the Top Ten of the Billboard 200, " the Grammy-winning "I Believe I Can Fly," and the remixes of "Step in the Name of Love" and "Ignition." He was also behind Top Ten hits by the likes of Aaliyah and Michael Jackson. ',
+    about: 'One of the most popular artists during a period lasting from the early 90s into the mid-2010s, contemporary R&B singer, songwriter, and producer.',
     image: './images/Rkelly.jpg',
     display: 'hs hide-speaker',
   },
 
   {
     name: 'LADY-GAGA',
-    about: 'MUSICIAN One of the america female singer she has been doing great in america music industry',
+    about: 'MUSICIAN One of the america female singer she has been doing great in america music industry. She has a great vocals that moves alot of audience in the music industry',
     image: './images/Lady_Gaga.jpeg',
     display: 'hs hide-speaker',
   },
