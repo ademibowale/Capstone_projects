@@ -201,6 +201,11 @@
     gap: 5px;
   }
 
+  #showcase {
+    margin: 3% 0 15px 5%;
+    font-size: 15px;
+  }
+
   #showcase h1 {
     text-align: center;
   }

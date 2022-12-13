@@ -156,8 +156,8 @@ nav {
   color: var(--ash-color);
 }
 
-#showcase {
-  margin: 70px 10% 15px 10px;
+.showcase {
+  margin: 70px 0 15px 10%;
   font-size: 15px;
 }
 
@@ -573,8 +573,8 @@ footer {
     font-size: 27px;
   }
 
-  #showcase {
-    margin: 0 0 15px -5%;
+  .showcase {
+    margin: -65px 0 15px 10%;
     font-size: 15px;
   }
 
