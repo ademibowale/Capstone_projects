@@ -9,13 +9,8 @@
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
+    - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -72,55 +67,6 @@ To get a local copy up and running, follow these steps.
 
 - [ ] Once the files are on your machine, open the Capstone_project folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
 
-
-### Prerequisites
-
-In order to run this project you need:
-
-# 🛠 Installation & Set Up
-
-1. Install Node Modules
-
-run the project in the browser.
-Use google tools to inspect the web into mobile size.
-
-   ```sh
-   npm install
-   ```
-
-2. Start the development server
-
-   ```sh
-   Cd in the project capstone
-Run the project in your browser.
-Install:
-
-   ```
-
-3. Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
-
-## 🚀 Building and Running for Production
-
-1. Generate a full static production build
-
-   ```sh
-   npm run build
-   ```
-### Usage
-
-To run the project, execute the following command:
-
-```sh
-  npm run dev
-```
-
-### Deployment
-
-You can deploy this project using:
-
-```sh
-  git push main
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
