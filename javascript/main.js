@@ -35,16 +35,16 @@ const guest = [
     image: './images/Shantel.png',
     display: 'hs hide-speaker',
   }, {
-    name: 'Yochai Philips',
+    name: 'Ryan Dyrud',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Paul.png',
+    image: './images/Master.png',
     display: 'hs hide-speaker',
   }, {
-    name: 'Julia Lila',
+    name: 'Yochai Benkler',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Daisy.png',
+    image: './images/Daisey.png',
     display: 'hs hide-speaker',
   }, {
     name: 'Daisy Monreo',

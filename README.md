@@ -43,8 +43,7 @@ The template I used to create this template was originally designed by [Cindy Sh
 ## Screenshot image
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/92458236/216925232-a9c70acd-6763-423f-87f4-1b639af9854e.png)
-![Screenshot (41)](https://user-images.githubusercontent.com/92458236/216925276-7f7f4c31-2dbc-4248-8925-084dcb88a392.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/92458236/216925320-349b57d4-f8fc-4513-9e49-4c41a88ef5c5.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/92458236/216949472-aeee684c-958a-475a-ad25-ef52f9762ef7.png)
 ![Screenshot (43)](https://user-images.githubusercontent.com/92458236/216925352-6d26bbc2-c25c-4422-bd56-c9c36aea42dd.png)
 ![Screenshot (44)](https://user-images.githubusercontent.com/92458236/216925392-7fdbac33-ebd1-463d-9ba3-057af2c803d3.png)
 
