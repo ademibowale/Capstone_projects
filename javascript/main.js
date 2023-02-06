@@ -17,40 +17,40 @@ closeMenu.addEventListener('click', () => {
 
 const guest = [
   {
-    name: 'Kenniz Music',
+    name: 'Yochai Philips',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Kenis.jpg',
+    image: './images/Paul.png',
     display: 'block',
   }, {
-    name: '2PAC SHURKO',
+    name: 'SohYeong Leda',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/2pac.jpg',
+    image: './images/Winnie.png',
     display: 'block',
   }, {
-    name: 'sonny Record',
+    name: 'Daisy Monreo',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Sony_record.jpeg',
+    image: './images/Shantel.png',
     display: 'hs hide-speaker',
   }, {
-    name: 'Sony Record',
+    name: 'Yochai Philips',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Sony_record.jpeg',
+    image: './images/Paul.png',
     display: 'hs hide-speaker',
   }, {
-    name: 'Fela Anikulapo',
+    name: 'Julia Lila',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Fela.jpg',
+    image: './images/Daisy.png',
     display: 'hs hide-speaker',
   }, {
-    name: 'Kenniz Music',
+    name: 'Daisy Monreo',
     about: 'Lorem, ipsum dolor sit amet consect.',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias, dolorem quibusdam.',
-    image: './images/Kenis.jpg',
+    image: './images/Shantel.png',
     display: 'hs hide-speaker',
   },
 ];
