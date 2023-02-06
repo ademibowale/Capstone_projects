@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulhamiid/capstone-project.git"
+    "url": "https://github.com/ademibowale/Capstone_projects.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdulhamiid/capstone-project/issues"
+    "url": "https://github.com/ademibowale/Capstone_projects/issues"
   },
-  "homepage": "https://github.com/abdulhamiid/capstone-project#readme",
+  "homepage": "https://github.com/ademibowale/Capstone_projects/blob/main/README.md",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
