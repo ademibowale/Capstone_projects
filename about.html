@@ -1,105 +1,140 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/about.css">
-  <title>capstone project</title>
-</head>
-<body>
-  <main id="main-section">
-    <div>
-      <div>
-        <nav id="top-nav">
-          <ul>
-            <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-            <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-            <li><a href="#">English</a></li>
-            <li><a href="#">My Page</a></li>
-            <li><a href="#">Logout</a></li>
-          </ul>
-        </nav>
-        <header id="main-header">
-          <nav>
-            <div class="flex-column menu">
-              <span class="hamburger"></span>
-              <span class="hamburger"></span>
-              <span class="hamburger"></span>
-            </div>
-            <a href="index.html" class="logo"><img src="./images/hymusic_logs.png" alt="our_logo"><span>HYMUSIC</span></a>
-            <ul class="nav-list hide">
-              <li id="close">
-                <div class="flex">
-                  <a href="index.html"><i class="bi bi-house-fill"></i></a>
-                  <i class="bi bi-x-lg flex"></i>
-                </div>
-              </li>
-              <li><a href="index.html" id="active">Home</a></li>
-              <li><a href="#">Programs</a></li>
-              <li><a href="#">Register</a></li>
-              <li><a href="#">Sponsor</a></li>
-              <li><a href="#">News</a></li>
-              <li class="last"><a href="#">CC Campagn</a></li>
 
-            </ul>
-          </nav>
-        </header>
-        <div id="showcase">
-          <h1> HYMUSIC ENTERTAINMENT </h1>
-          <p class="title">OUR VISION</p>
-          <p class="description d-mobile">Using our unlimited passion for technology, content and services to deliver groundbreaking new excitement and entertainment, as only HYMUSIC can.</p>
-          <p class="description dsk">HYMUSIC ENTERTAINMENT is a global recorded music company with a current roster that includes a broad array of local artists and international superstars.</p>
-          <div id="account-section" class="flex-column">
-            <p>Invest in HYMUSIC   (GOLD) - $800  for duration of 3month yield $400 (net profit $1200),  (SILVER) Level- - $1500  for duration of 2month yield $700 (net profit $2200),</p>
-            <small>Apply online <a href="">www.investhymusicentertainment.com</a>:<br>For more infor contact ademibowaleadegboye@gmail.com<br><span class="shukr">HYMUSIC WORLDWIDE ENTERTAINMENT</span></small>
-          </div>    
-        </div>
-      </div> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/about.css">
+    <title>capstone project</title>
+</head>
+
+<body>
+  <header>
+    <div id="top-bar" class="hide">
+      <div>
+        <ul class="flex">
+          <li class="flex"><a href="#"><i class="bi bi-facebook"></i></a></li>
+          <li class="flex"><a href="#"><i class="bi bi-twitter"></i></a></li>
+          <li class="flex"><a href="#">English</a></li>
+          <li class="flex"><a href="#">My page</a></li>
+          <li class="flex"><a href="#">Logout</a></li>
+        </ul>
+      </div>  
     </div>
-    <section class="section-1">
-      <div class="box flex">
-        <h3>Summit Coming Soon..</h3>
+
+    <!-- hamburger menu for mobile -->
+    <div class="flex flex-column menu">
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+    </div>
+
+    <div id="main-nav">
+      <div class="flex">
+        <a href="index.html" class="logo flex">
+          <img src="./images/hymusic_logs.png" alt="Entertainment logo">
+          <p>HYMUSIC</p> 
+        </a>    
+        <nav class="nav-list hide">
+          <ul>
+            <li><a href="index.html" class="d-mobile">Home</a></li>
+            <li><a href="about.html" id="about">About</a></li>
+            <li><a href="#">Program</a></li>
+            <li><a href="#">Register</a></li>
+            <li><a href="#">Sponsor</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">CC Campaign</a></li>
+          </ul>
+  
+          <!-- mobile menu close button -->                
+          <div>
+            <i class="bi bi-x-lg"></i>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-section">
+    <section class="showcase">
+      <div class="overlay">
+        <div id="showcase">
+          <div class="top-header d-mobile">"Hello! Sharing World"</div>
+          <h1>HYMUSIC ENTERTAINMENT<br>AFRO MUSIC AWARD 2022</h1>
+          <!-- e on mobile devices -->
+          <p class="description d-mobile">Using our unlimited passion for technology, content and services to deliver groundbreaking new excitement and entertainment, as only HYMUSIC can.</p>
+
+          <!-- description on desktop devices -->
+          <p class="description dsk">HYMUSIC ENTERTAINMENT is a global recorded music company with a current roster that includes a broad array of local artists and international superstars.</p>
+
+          <div id="action" class="flex-column">
+            <p class="flex small">Invest in HYMUSIC   (GOLD) - $800  for duration of 3month yield $400 (net profit $1200),  (SILVER) Level- - $1500  for duration of 2month yield $700 (net profit $2200), 
+              
+            </p>
+            <small>Apply online <a href="">www.investhymusicentertainment.com</a>:<br>For more infor contact ademibowaleadegboye@gmail.com<br><span class="shukr">HYMUSIC WORLDWIDE ENTERTAINMENT</span></small>
+            
+            <!-- <p>Please Contact Us Via Email For Further Questions</p>
+            <p class="flex small">
+              ademibowaleadegboye@gmail.com
+              <i class="bi bi-chevron-right dsk"></i>
+            </p> -->
+          </div>
+        </div>
       </div>
     </section>
-    <hr class="hr">
+
+    <section id="section-1">
+      <div class="flex flex-column about">
+        <h3>The Hymusic Award</h3>
+        <p class="description d-mobile">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus qtaque?</p>
+        <p class="description dsk">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias nihil repellat eos eius numquam nam ad facilis delectus officia ipsam placeat labore, maiores molestiae vel earum ullam nulla illo odit.</p>
+      </div>
+      <div class="box flex">
+        <img src="./images/Award.jpg" alt="Entertainment logo">
+      </div>
+      <hr class="hr">
+    </section>
+
     <section id="section-2" class="flex-column container">
-      <h3>Propossed Best Halarious Comedy Of The Year 2022</h3>
-      <hr>
+      <h3>See the past Hymusic Award</h3>
       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos, voluptatem.</p>
       <div class="agenda">
-        <div class="h-1" >             
-         <div class="flex"><p>Top 10 video 2022</p></div></div>
-        <div class="h-2"><div class="flex">Proposed Best Raper Of The Year 2022</div></div>
+        <div class="h-1">
+          <div class="flex flex-column">
+            <h4>2022</h4>
+            <p>HYMUSIC Conference at UK</p>
+          </div>
+        </div>
+        <div class="h-2">
+          <div class="flex flex-column">
+            <h4>2013</h4>
+            <p>HYMUSIC at USA</p>
+          </div>
+        </div>
       </div>
+    </section>
   </main>
+  
   <footer id="footer">
-    <p>Partner</p>
-    <hr>
-    <ul class="social-media flex">
-      <li><img src="./images/google-removebg-preview.png" alt="google"></li>
-      <li><img src="./images/airbnb-removebg-preview.png" alt="airbnb"></li>
-      <li><img src="./images/mozilla-removebg-preview.png" alt="mozila"></li>
-      <li><img src="./images/microverse-removebg-preview.png" alt="microverse"></li>
-      <li><img src="./images/naver-removebg-preview.png" alt="naver"></li>
-    </ul>
-    <div id="base-footer">
-      <ul>
-        <li id="bs-logo">
-          <img src="./images/hymusic_logs.png" alt="our_logo">
-          <small>HYMUSIC WORLDWIDE</small>
-        </li>
-        <li>
-          <h6>Zonal Office:</h6>
-          <small>HYMUSIC,<br>@ km 67 Ikeja Alen Avenue , Lagos State, Nigeria.
-          Permanent Site: KM 456,  Abule Egba ,Lagos/Ibadan Expressway
-            </small> 
-        </li>
+    <div>
+      <p>Partner</p>
+      <ul class="social-media flex">
+        <li><img src="./images/google-removebg-preview.png" alt="Picture of featured speakers"></li>
+        <li><img src="./images/airbnb-removebg-preview.png" alt="Picture of featured speakers"></li>
+        <li><img src="./images/mozilla-removebg-preview.png" alt="Picture of featured speakers"></li>
+        <li><img src="./images/microverse-removebg-preview.png" alt="Picture of featured speakers"></li>
+        <li><img src="./images/naver-removebg-preview.png" alt="Picture of featured speakers"></li>
       </ul>
-    </div>    
+    </div>
+    <div id="bs-footer" class="flex">
+      <img src="./images/hymusic_logs.png" alt="Entertainment logo">
+      <p class="small">@ KM 67, Ikeja Alen Avenue Lagos NIgeria.</p>
+    </div>
   </footer>
-  <script src="script.js"></script>
+  <script src="javascript/main.js"></script>
 </body>
+
 </html>
