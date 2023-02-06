@@ -173,9 +173,9 @@
 }
 
 @media (min-width: 768px) {
-  h1 {
+  /* h1 {
     text-align: center;
-  }
+  } */
 
   .d-mobile {
     display: none;
